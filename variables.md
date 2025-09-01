@@ -142,6 +142,8 @@ print(a + b)   # 15
 
 ## 🔹 Variables globales y locales
 
+El scope (alcance) en Python es la zona del programa donde una variable existe y se puede usar.
+
 Una **variable global** se crea fuera de una función y se puede usar en cualquier parte.
 
 Una **variable local** se crea dentro de una función y solo existe ahí.
