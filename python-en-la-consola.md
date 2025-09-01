@@ -1,3 +1,5 @@
+[← Back to Index](README.md)
+
 # Python en la Consola
 
 ## Verificar la instalación

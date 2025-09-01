@@ -1,3 +1,5 @@
+[← Back to Index](README.md)
+
 # Python Lambda
 
 Una función `lambda` es una función pequeña y anónima.

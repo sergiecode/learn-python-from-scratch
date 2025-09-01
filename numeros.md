@@ -1,3 +1,5 @@
+[← Back to Index](README.md)
+
 # Números en Python
 
 En Python existen tres tipos de números principales:

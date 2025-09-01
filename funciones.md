@@ -1,3 +1,5 @@
+[← Back to Index](README.md)
+
 # Funciones en Python
 
 Una **función** es un bloque de código que solo se ejecuta cuando la llamamos. Las funciones nos permiten organizar mejor el código, reutilizarlo y trabajar con datos de manera más flexible.

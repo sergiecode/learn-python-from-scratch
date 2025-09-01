@@ -1,4 +1,8 @@
-# Ma## 1. Try y Except
+[← Back to Index](README.md)
+
+# Manejo de Errores en Python
+
+## 1. Try y Except
 
 - `try`: sirve para "probar" un bloque de código que podría generar un error
 - `except`: sirve para manejar el error si ocurre

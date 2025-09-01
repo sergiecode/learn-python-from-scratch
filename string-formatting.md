@@ -1,3 +1,5 @@
+[← Back to Index](README.md)
+
 # Formateo de texto en Python
 
 En Python, muchas veces necesitamos combinar texto con variables, por ejemplo mostrar un precio o un nombre dentro de un mensaje. Existen varias formas de hacerlo, pero la más moderna y recomendada es usando **f-strings** (a partir de Python 3.6).

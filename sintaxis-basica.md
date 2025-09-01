@@ -1,3 +1,5 @@
+[← Back to Index](README.md)
+
 # Sintaxis Básica de Python
 
 ## 📌 ¿Qué es sintaxis?

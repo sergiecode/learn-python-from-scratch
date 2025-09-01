@@ -1,3 +1,5 @@
+[← Back to Index](README.md)
+
 # Polimorfismo en Python
 
 La palabra **polimorfismo** significa "muchas formas". En programación, se refiere a métodos, funciones u operadores con el mismo nombre que pueden actuar sobre distintos objetos o clases.imorfismo en Python

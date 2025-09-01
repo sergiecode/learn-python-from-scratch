@@ -1,3 +1,5 @@
+[← Back to Index](README.md)
+
 # Strings en Python
 
 Un string es una secuencia de caracteres, es decir, texto. En Python se pueden definir con comillas simples `'...'` o comillas dobles `"..."`:

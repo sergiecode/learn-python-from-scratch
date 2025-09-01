@@ -1,3 +1,5 @@
+[← Back to Index](README.md)
+
 # Clases y Objetos en Python
 
 Python es un lenguaje orientado a objetos. Esto significa que casi todo en Python es un **objeto** con sus **propiedades** (variables) y **métodos** (funciones).

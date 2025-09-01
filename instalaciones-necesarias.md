@@ -1,3 +1,5 @@
+[← Back to Index](README.md)
+
 # Instalaciones necesarias para curso de Python
 
 ## Software requerido

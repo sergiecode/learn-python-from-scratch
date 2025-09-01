@@ -1,3 +1,5 @@
+[← Back to Index](README.md)
+
 # Herencia en Python
 
 La **herencia** nos permite crear una clase que hereda propiedades y métodos de otra clase.

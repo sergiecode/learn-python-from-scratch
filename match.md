@@ -1,6 +1,10 @@
+[← Back to Index](README.md)
+
 # Condicional match en Python
 
-El `match` es u## 3. Valor por defecto
+El `match` es una nueva característica de Python (desde la versión 3.10).
+
+## 3. Valor por defecto
 
 Si que## 4. Combinar valores en un case
 

@@ -1,3 +1,5 @@
+[← Back to Index](README.md)
+
 # Operadores en Python
 
 En Python, los operadores se usan para realizar operaciones con variables y valores. Por ejemplo:

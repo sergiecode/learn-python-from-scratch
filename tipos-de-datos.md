@@ -1,3 +1,5 @@
+[← Back to Index](README.md)
+
 # Tipos de Datos en Python
 
 ## 1. str (string) – Texto

@@ -1,3 +1,5 @@
+[← Back to Index](README.md)
+
 # Variables en Python
 
 ## 🔹 ¿Qué es una variable?

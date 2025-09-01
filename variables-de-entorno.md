@@ -1,3 +1,5 @@
+[← Back to Index](README.md)
+
 # Variables de Entorno para Python
 
 ## 🪟 Windows

@@ -1,3 +1,5 @@
+[← Back to Index](README.md)
+
 # Booleanos en Python
 
 Un booleano es un tipo de dato que solo puede tener dos valores:

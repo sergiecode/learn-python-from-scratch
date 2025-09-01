@@ -1,3 +1,5 @@
+[← Back to Index](README.md)
+
 # Diccionarios en Python
 
 ## ¿Qué es un diccionario?```
