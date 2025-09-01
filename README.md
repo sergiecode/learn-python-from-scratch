@@ -31,5 +31,5 @@
  - Módulos (link to MD file)
  - Manejo de errores (link to MD file)
  - Texto con variables (String formatting) (link to MD file)
- - Python (link to MD file)
+ - Manejo de archivos (link to MD file)
  - Python (link to MD file)
