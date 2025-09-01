@@ -1,4 +1,4 @@
-[← Back to Index](README.md)
+[← Volver al índice](README.md)
 
 # Programación Orientada a Objetos (POO) en Python
 

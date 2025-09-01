@@ -1,4 +1,4 @@
-[← Back to Index](README.md)
+[← Volver al índice](README.md)
 
 # Variables de Entorno para Python
 

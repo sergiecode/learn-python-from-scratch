@@ -1,4 +1,4 @@
-[← Back to Index](README.md)
+[← Volver al índice](README.md)
 
 # Comentarios en Python
 
