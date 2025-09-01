@@ -28,7 +28,7 @@
  - Clases (link to MD file)
  - Herencia (link to MD file)
  - Polimorfismo (link to MD file)
- - Python (link to MD file)
+ - Módulos (link to MD file)
  - Python (link to MD file)
  - Python (link to MD file)
  - Python (link to MD file)
