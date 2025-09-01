@@ -2,13 +2,29 @@
 
 # Condicional match en Python
 
-El `match` es una nueva característica de Python (desde la versión 3.10).
+El `match` es una nueva característica de Python (desde la versión 3.10). Es útil cuando querés ejecutar diferentes bloques de código según el valor de una expresión, sin tener que escribir muchos `if ... elif ... else`. Se parece al `switch` de otros lenguajes.
 
-## 3. Valor por defecto
+## 1. Sintaxis básica
 
-Si que (incompleto)
+```python
+match expresión:
+    case valor1:
+        # código si expresión == valor1
+    case valor2:
+        # código si expresión == valor2
+    case valor3:
+        # código si expresión == valor3
+```
 
-## 4. Combinar valores en un case
+**Cómo funciona:**
+
+- Se evalúa la expresión una sola vez
+- Se compara con cada `case`
+- Si encuentra coincidencia, ejecuta el bloque de código correspondiente
+
+## 2. Ejemplo práctico: días de la semana
+
+## 3. Combinar valores en un case
 
 Podés usar el símbolo `|` para decir "o" y agrupar varios valores en un solo bloque:
 
@@ -22,7 +38,11 @@ match day:
         print("Me encantan los fines de semana")
 ```
 
-Aquí, cualquier día de semana (1 a 5) ejecuta el primer bloque.que se ejecute cuando ningún `case` coincida, se usa el guion bajo `_`:
+Aquí, cualquier día de semana (1 a 5) ejecuta el primer bloque.
+
+## 4. Valor por defecto
+
+Para que se ejecute cuando ningún `case` coincida, se usa el guion bajo `_`:
 
 ```python
 day = 4
@@ -36,7 +56,9 @@ match day:
         print("Esperando el fin de semana")
 ```
 
-> **Nota:** `_` siempre coincide, así que debe ir al final para funcionar como "default".utar diferentes bloques de código según el valor de una expresión, sin tener que escribir muchos `if ... elif ... else`.
+> **Nota:** `_` siempre coincide, así que debe ir al final para funcionar como "default".
+
+El `match` es útil cuando querés ejecutar diferentes bloques de código según el valor de una expresión, sin tener que escribir muchos `if ... elif ... else`.
 
 Se parece al `switch` de otros lenguajes.
 
