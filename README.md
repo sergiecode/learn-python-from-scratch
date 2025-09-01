@@ -13,7 +13,7 @@
  - Numeros (link to MD file)
  - Texto (Strings) (link to MD file)
  - Booleanos (link to MD file)
- - Python (link to MD file)
+ - Operadores (link to MD file)
  - Python (link to MD file)
  - Python (link to MD file)
  - Python (link to MD file)
