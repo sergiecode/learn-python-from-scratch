@@ -22,7 +22,7 @@ Si no usamos `try`, el programa se detendría y mostraría un error:
 
 ```python
 print(x)  # Esto causará un error
-```Python
+```
 
 En Python, los errores se llaman **excepciones**. Cuando ocurre una excepción, normalmente el programa se detiene y muestra un mensaje de error. Para evitar que nuestro programa se caiga, podemos manejar estas excepciones usando `try` y `except`.
 

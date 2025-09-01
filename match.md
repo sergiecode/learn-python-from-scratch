@@ -6,7 +6,9 @@ El `match` es una nueva característica de Python (desde la versión 3.10).
 
 ## 3. Valor por defecto
 
-Si que## 4. Combinar valores en un case
+Si que (incompleto)
+
+## 4. Combinar valores en un case
 
 Podés usar el símbolo `|` para decir "o" y agrupar varios valores en un solo bloque:
 
