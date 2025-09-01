@@ -25,6 +25,6 @@
  - Funciones (link to MD file)
  - Funciones Lambda (link to MD file)
  - Introducción a POO (link to MD file)
- - Python (link to MD file)
+ - Clases (link to MD file)
  - Python (link to MD file)
  - Python (link to MD file)
