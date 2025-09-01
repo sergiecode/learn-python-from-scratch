@@ -21,4 +21,6 @@
  - Tuplas (link to MD file)
  - Conjuntos (link to MD file)
  - Diccionarios (link to MD file)
+ - Condicionales (link to MD file)
+ - Python (link to MD file)
  - Python (link to MD file)
