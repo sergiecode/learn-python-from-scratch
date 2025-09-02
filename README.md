@@ -29,6 +29,7 @@
  - [Herencia](herencia.md)
  - [Polimorfismo](polimorfismo.md)
  - [Módulos](modulos.md)
+ - [Uso de múltiples archivos](uso-multiples-archivos.md)
  - [Manejo de errores](manejo-de-errores.md)
  - [Texto con variables (String formatting)](string-formatting.md)
  - [Manejo de archivos](manejo-de-archivos.md)
