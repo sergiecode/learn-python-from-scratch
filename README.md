@@ -1,4 +1,4 @@
-# Sergie Code Python from scratch
+# Sergie Code Fundamentos de Python
 
 # Indice:
 
